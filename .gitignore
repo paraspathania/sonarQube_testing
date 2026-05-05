@@ -6,4 +6,4 @@ coverage/
 .DS_Store
 *.log
 sonar-project.properties
-.sqa
+.sqash

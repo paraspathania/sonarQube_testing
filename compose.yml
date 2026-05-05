@@ -43,4 +43,3 @@ volumes:
  sonarqube_extensions:
  sonarqube_logs:
  jenkins_home:
-
